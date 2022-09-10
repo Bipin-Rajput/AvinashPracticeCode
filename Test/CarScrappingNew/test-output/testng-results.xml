@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-10T15:07:27 IST" name="Default suite" finished-at="2021-08-10T15:08:15 IST" duration-ms="47942">
+    <groups>
+    </groups>
+    <test started-at="2021-08-10T15:07:27 IST" name="Default test" finished-at="2021-08-10T15:08:15 IST" duration-ms="47942">
+      <class name="basePackage.BaseClass">
+        <test-method signature="CarScrapping()[pri:0, instance:basePackage.BaseClass@3e92efc3]" started-at="2021-08-10T15:07:27 IST" name="CarScrapping" finished-at="2021-08-10T15:08:15 IST" duration-ms="47884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarScrapping -->
+      </class> <!-- basePackage.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
